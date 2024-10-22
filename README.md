@@ -1,3 +1,5 @@
+                                          **Titanic - Machine Learning from Disaster - Survival Prediction Project**             
+
 **Project Overview**
 The Titanic machine learning competition challenges Kagglers to predict which passengers survived the Titanic shipwreck. Being able to identify patterns in the data that linked passenger characteristics to survival would help understand this tragic event and provide insights for similar situations.
 
